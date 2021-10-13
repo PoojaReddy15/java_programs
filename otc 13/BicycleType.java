@@ -1,0 +1,3 @@
+enum BicycleType{
+	WITHGEAR,WITHOUTGEAR;
+}
